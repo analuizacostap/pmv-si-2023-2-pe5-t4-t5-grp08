@@ -15,7 +15,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Davi Chavante Carlos
 * Vitor Ottoni Cezar
 * Ana Luiza Costa Pinto
-* Gabriel Freitas Cambraia
+
   
 ## Orientador
 
