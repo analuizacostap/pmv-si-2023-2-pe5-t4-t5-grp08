@@ -23,32 +23,20 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
+Essa aplicação tem como objetivo: 
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+1) Facilitar a reserva de mesas, pedidos e delivery, fazendo com que esas opções sejam feitas online pela aplicação.
+2) Automatizar o atentimento no proprio restaurante, dando mais autonomia ao cliente.
+3) Agilizar todo esse processo . 
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Essa aplicação facilita a vida das pessoas que utilizam serviços de delivery ou que gostam de ir a restaurantes.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Com a possibilidade de fazer tudo online, tanto a reserva de mesa, quanto o pedido da comida quando o cliente ja está no restaurante (ou delivery essa for a opção escolhida), o cliente nao depende mais de algum funcionario para fazer tudo isso para cada cliente individualmente o que tomaria muito tempo mais tempo e teria mais risco de erros. 
+A utilização dessa aplicação agilizaria todo esse processo ja que tudo é automatizado e instantaneo, fazendo com que o cliente tenha mais autonomia e independencia.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Pessoas de qualquer idade que frequentam restaurantes ou que fazem pedidos de comida online. 
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
